@@ -2,7 +2,7 @@ module.exports = {
     entry: "./src/entry.js",
     output: {
         path: "./dist",
-        filename: "bound.min.js"
+        filename: "bundle.min.js"
     },
     module: {
         rules: [
