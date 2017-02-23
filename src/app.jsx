@@ -1,0 +1,1 @@
+export default <div>you should know that</div>
